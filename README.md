@@ -25,6 +25,8 @@ git commit -m "Mon message de commit" #Créer une commit avec le message "Mon me
 
 git pull #Récupère les modifications présentes sur le dépôt distant et les intègre dans votre branche locale.
 
+git push #Envoyer les modifications sur le repository distant
+
 git log #Voir l'historique de la branche courante
 ```
 
